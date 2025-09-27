@@ -1,4 +1,4 @@
-# RAG
+# RAG Agent Drafts
 RAG sample with open source Vector Database and Llama over Startrek New Generation Dataset 🖖
 
 0. Downlaod the dataset: https://www.kaggle.com/datasets/mexwell/star-trek-the-next-generation-dataset?resource=download
